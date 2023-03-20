@@ -5,8 +5,7 @@
     <a href="https://www.linkedin.com/in/victor-assun%C3%A7%C3%A3o-schumann-106839185/">Victor Assunção 😃️</a>
   </h1>
   
-  <p align="center">Cancel changes
-  I am a Front-End development student and I enjoy creating beautiful and creative websites. I want my websites to make people's eyes sparkle.
+  <p align="center">"Hello, I'm a student currently learning ReactJS, but I'm also interested in game development and illustration. I enjoy exploring the creative aspects of software development and I'm excited about the potential of combining my interests in these areas to build engaging and immersive experiences for users. With a passion for learning and experimenting with new technologies and techniques, I'm always looking for opportunities to broaden my skill set and explore new frontiers in software development."
   </p>
   
   <p align="center"
