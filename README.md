@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/victoraszs/">Victor Assunção </a>
   </h1>
   
-  <p align="center">"Hello, I'm a student currently learning ReactJS, but I'm also interested in game development and illustration. I enjoy exploring the creative aspects of software development and I'm excited about the potential of combining my interests in these areas to build engaging and immersive experiences for users. With a passion for learning and experimenting with new technologies and techniques, I'm always looking for opportunities to broaden my skill set and explore new frontiers in software development."
+  <p align="center">"Hello, I'm a student currently learning Laravel, but I'm also interested in game development and illustration. I enjoy exploring the creative aspects of software development and I'm excited about the potential of combining my interests in these areas to build engaging and immersive experiences for users. With a passion for learning and experimenting with new technologies and techniques, I'm always looking for opportunities to broaden my skill set and explore new frontiers in software development."
   </p>
   
   <p align="center"
