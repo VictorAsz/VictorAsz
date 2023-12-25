@@ -8,9 +8,6 @@
   <p align="center">"Hello, I'm a student currently learning Laravel, but I'm also interested in game development and illustration. I enjoy exploring the creative aspects of software development and I'm excited about the potential of combining my interests in these areas to build engaging and immersive experiences for users. With a passion for learning and experimenting with new technologies and techniques, I'm always looking for opportunities to broaden my skill set and explore new frontiers in software development."
   </p>
   
-  <p align="center"
-    Welcome to my profile and I hope you find something that you like.😉
-  </p>
   
 </div>
 
@@ -47,7 +44,5 @@
   
 </div>
 
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+<div align="center"> href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
