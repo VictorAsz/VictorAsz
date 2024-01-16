@@ -15,7 +15,8 @@
   <a href="https://github.com/VictorAsz">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorAsz&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAsz&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VictorAsz&theme=dark&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+
 </div>
 
 <div align="center" valign="top"><br>
