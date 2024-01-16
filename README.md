@@ -2,27 +2,42 @@
   
   <h1 align="center">
     Hello! i'm 
-    <a href="https://www.linkedin.com/in/victoraszs/">Victor Assunção </a>
+    <a href="https://www.linkedin.com/in/victoraszs/">Victor Assunção </a> <br>
+    
   </h1>
-  
-  <p align="center">"Hello, I'm a student currently learning Laravel and Vue.js, but I'm also interested in game development and illustration. I enjoy exploring the creative aspects of software development and I'm excited about the potential of combining my interests in these areas to build engaging and immersive experiences for users. With a passion for learning and experimenting with new technologies and techniques, I'm always looking for opportunities to broaden my skill set and explore new frontiers in software development."
+ <div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=30&lines=Software+Enginering+Student;Web+Developer;Designer)](https://git.io/typing-svg)
+  </div> 
+  <br>
+  <p align="center">
+Hello, I am a software engineering student at UNINTER, currently focused on Laravel and Vue.js. I also have an interest in illustration and digital design. I am enthusiastic about personal development and learning, I am currently seeking my first developer position as a Junior.
   </p>
+
   
+-  🔭 I am currently looking for a job 😉
+
+- 📚 I’m Reading "Grokking Algorithms" by Aditya Bhargava.
+
+- 🌱 I like to write a blog sometimes
   
+
+
 </div>
 
 <div align="center" valign="top"><br>
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,php,laravel,vue,react,html,css,tailwind,bootstrap,blender" />
+      <img src="https://skillicons.dev/icons?i=git,html,css,js,bootstrap,vue,react,tailwind,php,laravel,mysql" />
     </a>
   </p>
-
-
+   
 </div>
 
+
 <br/>
+
 <br/>
 
 <div align="center">
@@ -38,18 +53,9 @@
 
 
 
-<div align="center">
 
-  <p align="center">
-    <a href="https://www.instagram.com/victor_aszo">
-      <img src="https://skillicons.dev/icons?i=instagram" />
-    </a>
-     <a href="https://www.linkedin.com/in/victoraszs/">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-    
-  </p>
-  
+
+<div align="center">
   
   <a href="https://www.instagram.com/victor_aszo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victoraszs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
