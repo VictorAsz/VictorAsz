@@ -11,10 +11,10 @@
   </div> 
   <br>
  <p align="center">
-Olá, sou um estudante de engenharia de software na UNINTER, atualmente focado em Laravel e Vue.js. Também tenho interesse em ilustração e design digital. Sou entusiasmado com o desenvolvimento e aprendizado, atualmente em busca da minha primeira posição como desenvolvedor júnior.
+Olá, sou um estudante de análise e desenvolvimento de sistemas na UNISINOS, atualmente focado em Laravel e Vue.js. Também tenho interesse em ilustração e design digital. Sou entusiasmado com o desenvolvimento e aprendizado, atualmente em busca da minha primeira posição como desenvolvedor júnior.
   </p> <br>
   <p align="center">
-Hello, I am a software engineering student at UNINTER, currently focused on Laravel and Vue.js. I also have an interest in illustration and digital design. I am enthusiastic about personal development and learning, I am currently seeking my first developer position as a Junior.
+Hello, I am a student , currently focused on Laravel and Vue.js. I also have an interest in illustration and digital design. I am enthusiastic about personal development and learning, I am currently seeking my first developer position as a Junior.
   </p><br>
 
   
