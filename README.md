@@ -20,7 +20,6 @@ Hello, I am a student , currently focused on Laravel and Vue.js. I also have an 
   
 
   
-- 🔭 Atualmente, estou procurando um emprego 😉 
 
 - 📚 Estou lendo "Grokking Algorithms" de Aditya Bhargava. 
 
