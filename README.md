@@ -7,11 +7,11 @@
   </h1>
  <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=30&lines=Software+Enginering+Student;Web+Developer;Designer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=30&lines=Student;Web+Developer;Designer)](https://git.io/typing-svg)
   </div> 
   <br>
  <p align="center">
-Olá, sou um estudante de análise e desenvolvimento de sistemas na UNISINOS, atualmente focado em Laravel e Vue.js. Também tenho interesse em ilustração e design digital. Sou entusiasmado com o desenvolvimento e aprendizado, atualmente em busca da minha primeira posição como desenvolvedor júnior.
+Olá, sou um desenvolvedor Web, atualmente trabalho com Angular e c# e curso ADS na UNISSINOS. Também tenho interesse em design digital. Sou entusiasmado com o desenvolvimento e aprendizado, atualmente em busca da minha primeira posição como desenvolvedor júnior.
   </p> <br>
   <p align="center">
 Hello, I am a student , currently focused on Laravel and Vue.js. I also have an interest in illustration and digital design. I am enthusiastic about personal development and learning, I am currently seeking my first developer position as a Junior.
