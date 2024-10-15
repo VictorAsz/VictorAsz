@@ -23,7 +23,7 @@ Hello, I am a full stack web developer and an ADS (Analysis and Systems Developm
 
 - 📚 Estou lendo "Grokking Algorithms" de Aditya Bhargava. 
 
-- 🌱 Gosto de escrever às vezes. 
+- 🌱 Desenvolver C# e Angular
   
 
 
