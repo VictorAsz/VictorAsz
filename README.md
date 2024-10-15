@@ -33,7 +33,7 @@ Hello, I am a full stack web developer and an ADS (Analysis and Systems Developm
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,html,css,js,bootstrap,vue,react,tailwind,php,laravel,mysql" />
+      <img src="https://skillicons.dev/icons?i=git,html,css,ts,c#,angular,react,tailwind,php,laravel,mysql" />
     </a>
   </p>
    
