@@ -11,10 +11,10 @@
   </div> 
   <br>
  <p align="center">
-Olá, sou um desenvolvedor Web, atualmente trabalho com Angular e c# e curso ADS na UNISSINOS. Também tenho interesse em design digital. Sou entusiasmado com o desenvolvimento e aprendizado, atualmente em busca da minha primeira posição como desenvolvedor júnior.
+Olá, Eu sou um desenvolvedor web full stack e estudante de ADS com bastante interesse na área de desenvolvimento web. Sempre estou programando algo e buscando me aprimorar. Atualmente estou trabalhando usando as tecnologias ASP.Net e Angular
   </p> <br>
   <p align="center">
-Hello, I am a student , currently focused on Laravel and Vue.js. I also have an interest in illustration and digital design. I am enthusiastic about personal development and learning, I am currently seeking my first developer position as a Junior.
+Hello, I am a full stack web developer and an ADS (Analysis and Systems Development) student with a strong interest in web development. I am always programming something and looking to improve my skills. Currently, I am working with ASP.Net and Angular technologies.
   </p><br>
 
   
